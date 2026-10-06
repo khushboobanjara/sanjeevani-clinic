@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+Jinja2
+python-multipart
+nltk
+gensim
+groq
+python-dotenv
+bcrypt
+mysql-connector-python
+cashfree-pg
+itsdangerous
